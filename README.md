@@ -1,7 +1,7 @@
 -🌍  I'm based in Albania
 - ✉️You can contact me at Klajvertcela@hotmail.com
 - 🚀  I'm currently working on ...,
-- 🧠  I'm learning ReactJs,NodeJs,
+- 🧠  I'm learning ReactJs,React Native,NodeJs,
 - 🤝  I'm open to collaborating on interesting projects,.
 
 
